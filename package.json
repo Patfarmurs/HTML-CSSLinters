@@ -1,0 +1,23 @@
+{
+  "name": "html-csslinters",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patfarmurs/HTML-CSSLinters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patfarmurs/HTML-CSSLinters/issues"
+  },
+  "homepage": "https://github.com/Patfarmurs/HTML-CSSLinters#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
